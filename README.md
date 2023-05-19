@@ -1,6 +1,26 @@
+
+
+
+<style>
+    .github-stats-card {
+        border: none !important;
+    }
+</style>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegatorIT&layout=compact&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c&border_color=none)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegatorIT&show_icons=true&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 
 
 ### Hi there, I'm Oleg  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -38,5 +58,9 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<h2 align="center">My GitHub Stats</h2>
+
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-OlegatorIT&style=flat-square&color=blue" alt="counter"/>
