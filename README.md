@@ -1,13 +1,15 @@
 ![---](https://github.com/OlegatorIT/OlegatorIT/blob/main/media/top.png?raw=true)
-<p align="center">
+
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=300&pause=1000&color=07F768&background=FFFFFF00&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&lines=Hello+everyone+from+me;good+day+and+good+mood;Welcome+to+my+repository)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AF72F&center=true&vCenter=true&width=435&lines=Hello+everyone+from+me;good+day+and+good+mood;Welcome+to+my+repository)](https://git.io/typing-svg)
+    
 </div>
 
-
-### <h1> Hi there, I'm Oleg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1> 
+<details open>
+  <summary><h1> Hi there, I'm Oleg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1></summary>
+ 
 <details open>
   <summary><h2>:man_technologist: About Me :</h2></summary>
 I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
@@ -18,7 +20,7 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
 - 📫 How to reach me: podlesnyoleg93@gmail.com
        
 </details>
-
+</details>
 
 <details open>
   <summary><h2>💻️ My GitHub Stats</h2></summary>
