@@ -61,7 +61,7 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
 
 
 
-<img src="https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/SpaceProdigy.jpg?raw=true" width="1024" height="1024">
+<img src="https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/SpaceProdigy.jpg?raw=true" width="1200" height="600">
 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-SpaceProdigy&style=flat-square&color=blue" alt="counter"/>
