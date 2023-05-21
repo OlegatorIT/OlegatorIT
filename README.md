@@ -1,4 +1,7 @@
-![---](https://github.com/OlegatorIT/OlegatorIT/blob/main/media/top.png?raw=true)
+![---](https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/top.png?raw=true)
+
+
+
 
 
 <div align="center">
@@ -26,8 +29,8 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
   <summary><h2>💻️ My GitHub Stats</h2></summary>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegatorIT&show_icons=true&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegatorIT&layout=compact&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceProdigy&show_icons=true&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceProdigy&layout=compact&theme=transparent&title_color=55bb4c&text_color=e3e9e3&icon_color=55bb4c&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
    </details>
@@ -58,7 +61,7 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
 
 
 
+<img src="https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/SpaceProdigy.jpg?raw=true" width="1024" height="1024">
 
 
-
-<img align="right" src="https://komarev.com/ghpvc/?username=your-OlegatorIT&style=flat-square&color=blue" alt="counter"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-SpaceProdigy&style=flat-square&color=blue" alt="counter"/>
