@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AF72F&center=true&vCenter=true&width=435&lines=Hello+everyone+from+me;good+day+and+good+mood;Welcome+to+my+repository)](https://git.io/typing-svg)
     
@@ -60,8 +60,15 @@ I am learning on a Full Stack Developer <img src="https://media.giphy.com/media/
  
 
 
+<details>
+    <summary><h2> 🖼️ Profile image</h2></summary>
+   
+<img src="https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/SpaceProdigy.jpg?raw=true" width="846" height="600">
+</details>
 
-<img src="https://github.com/SpaceProdigy/SpaceProdigy/blob/main/media/SpaceProdigy.jpg?raw=true" width="1200" height="600">
+<div align="center">
 
+![codewars]( https://www.codewars.com/users/SpaceProdigy/badges/large)
+</div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-SpaceProdigy&style=flat-square&color=blue" alt="counter"/>
